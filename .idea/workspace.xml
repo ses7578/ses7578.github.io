@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="222b9cfc-0883-4ba9-939e-b4c486a7131d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/intro.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/missions.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timeline50.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timeline60.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/ses7578.github.io.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Home.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Intro.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SpaceMissions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TimeLine50.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TimeLine60.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/imgs/luna1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/imgs/luna1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/imgs/nasa.png" beforeDir="false" afterPath="$PROJECT_DIR$/imgs/nasa.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/imgs/sputnik.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/imgs/sputnik.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/refrences.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/spaceRaceLogo.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/imgs/spaceRaceLogo.jpg" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kTcn06hvG5JbTgQBQYWB3K21uz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="javascript.nodejs.core.library.configured.version" value="14.9.0" />
+    <property name="javascript.nodejs.core.library.typings.version" value="14.14.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/imgs" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\shann\OneDrive\Documents\ses7578.github.io\imgs" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="222b9cfc-0883-4ba9-939e-b4c486a7131d" name="Default Changelist" comment="" />
+      <created>1605728184664</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605728184664</updated>
+      <workItem from="1605728186362" duration="1534000" />
+      <workItem from="1605737471487" duration="6000" />
+      <workItem from="1606655486677" duration="2841000" />
+      <workItem from="1606834796382" duration="884000" />
+      <workItem from="1606837222199" duration="1678000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="438" y="209" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1605728569716">
+      <screen x="0" y="0" width="1620" height="1040" />
+    </state>
+    <state x="438" y="209" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1620.1040@0.0.1620.1040" timestamp="1605728569716" />
+    <state x="541" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1605729353413">
+      <screen x="0" y="0" width="1620" height="1040" />
+    </state>
+    <state x="541" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1620.1040@0.0.1620.1040" timestamp="1605729353413" />
+    <state x="591" y="275" key="FileChooserDialogImpl" timestamp="1606657676979">
+      <screen x="0" y="0" width="1620" height="1040" />
+    </state>
+    <state x="591" y="275" key="FileChooserDialogImpl/0.0.1620.1040@0.0.1620.1040" timestamp="1606657676979" />
+    <state x="291" y="95" key="SettingsEditor" timestamp="1605728629950">
+      <screen x="0" y="0" width="1620" height="1040" />
+    </state>
+    <state x="291" y="95" key="SettingsEditor/0.0.1620.1040@0.0.1620.1040" timestamp="1605728629950" />
+    <state x="402" y="141" key="new project wizard" timestamp="1606655713986">
+      <screen x="0" y="0" width="1620" height="1040" />
+    </state>
+    <state x="402" y="141" key="new project wizard/0.0.1620.1040@0.0.1620.1040" timestamp="1606655713986" />
+  </component>
+</project>

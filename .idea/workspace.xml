@@ -20,42 +20,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="222b9cfc-0883-4ba9-939e-b4c486a7131d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/intro.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/missions.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/timeline50.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/timeline60.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ses7578.github.io.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/logo192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/logo512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/robots.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Home.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Intro.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SpaceMissions.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TimeLine50.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TimeLine60.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/imgs/luna1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/imgs/luna1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/imgs/nasa.png" beforeDir="false" afterPath="$PROJECT_DIR$/imgs/nasa.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/imgs/sputnik.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/imgs/sputnik.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/refrences.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reportWebVitals.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/spaceRaceLogo.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/imgs/spaceRaceLogo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/mercuryRedstone.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/vostok.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/intro.html" beforeDir="false" afterPath="$PROJECT_DIR$/intro.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/missions.html" beforeDir="false" afterPath="$PROJECT_DIR$/missions.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/timeline50.html" beforeDir="false" afterPath="$PROJECT_DIR$/timeline50.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/timeline60.html" beforeDir="false" afterPath="$PROJECT_DIR$/timeline60.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -144,7 +116,7 @@
       <workItem from="1605737471487" duration="6000" />
       <workItem from="1606655486677" duration="2841000" />
       <workItem from="1606834796382" duration="884000" />
-      <workItem from="1606837222199" duration="1678000" />
+      <workItem from="1606837222199" duration="2285000" />
     </task>
     <servers />
   </component>
